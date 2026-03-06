@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Balashanmugam! 
 
-<!--
-**balashanmugam18/balashanmugam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀  Java Developer | Trading Risk Analyst Beginner
+**⚠️ Trading Disclaimer:** Personal learning project for risk analysis. **Not financial advice.**
 
-Here are some ideas to get you started:
+- 💻 **Backend Developer - TCS| 4+ YOE | India**
+- 🌱 Learning **Advanced Spring Security, JWT**
+- 💼 Expertise: **Spring Boot, Microservices, PostgreSQL, REST APIs, JPA, Junit testcase**
+- 🤝 Open to **collaborate on fintech/ trading/ other spring boot projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Expertise
+- Technologies: Java, Spring boot, Hibernate, JSON, Spring Data JPA
+- Databases: PostgrSQL ,MySQL , MongoDB
+- Tools and IDEs: Git, GitHub, IntelliJ, Eclipse, VS Code, DBeaver, DBVisualizer, Pgadmin, Mongo Compass, Postman and Insomnia.
+### 🔥 Latest Projects
+
+| Project | Description | Tech Stack                           | Stars |
+|---------|-------------|--------------------------------------|-------|
+| [Trading Journal](https://github.com/balashanmugam18/trading-journal) | **Trade tracking with P&L analytics** | Spring Boot 4.0, PostgreSQL          | ⭐ |
+| [Spring Batch Scheduler](https://github.com/balashanmugam18/spring-batch-scheduler-job) | **Spring boot batch process for updating data periodically** | Spring Boot 4.0, PostgreSQL, MongoDB | ⭐ |
+- Creating more spring boot applications coming soon...
+---
+
+📫 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/balashanmugamrk/)
+- 💻 [GitHub](https://github.com/balashanmugam18)
+
+<div align="center">
+<br>
+Made with ❤️ using GitHub
+</div>
