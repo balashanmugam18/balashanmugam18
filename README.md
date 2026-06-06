@@ -16,8 +16,9 @@
 
 | Project | Description | Tech Stack                           | Stars |
 |---------|-------------|--------------------------------------|-------|
-| [Trading Journal](https://github.com/balashanmugam18/trading-journal) | **Trade tracking with P&L analytics** | Spring Boot 4.0, PostgreSQL          | ⭐ |
+| [Trading Journal](https://github.com/balashanmugam18/trading-journal) | **Trade Journal tracking with P&L analytics** | Spring Boot 4.0, PostgreSQL          | ⭐ |
 | [Spring Batch Scheduler](https://github.com/balashanmugam18/spring-batch-scheduler-job) | **Spring boot batch process for updating data periodically** | Spring Boot 4.0, PostgreSQL, MongoDB | ⭐ |
+| [Library Management Application](https://github.com/balashanmugam18/library-management-application)) | **Library Management System with transactional backend logic** | Spring Boot 4.0, PostgreSQL | ⭐ |
 - Creating more spring boot applications coming soon...
 ---
 
